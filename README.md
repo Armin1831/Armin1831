@@ -50,7 +50,9 @@
 
 ### 🔥 Featured Projects
 
-* **[ALPR System]** - An end-to-end Automatic License Plate Recognition system featuring a FastAPI inference backend powered by OpenCV pipelines, and a real-time React dashboard.
+> **💡 Live Demos & Showcases:** You can find live demos and detailed videos of my work on my **[Personal Website](https://armin-aboutalebi.vercel.app)**. 
+> *(Note: Depending on your region, you may need an active VPN to properly load the website).*
+
+* **[ALPR System]** 🔒 *Closed Source* - An end-to-end Automatic License Plate Recognition system featuring a FastAPI inference backend powered by OpenCV pipelines, and a real-time React dashboard. Since the source code is private, you can **[watch the full video demo on my portfolio](https://armin-aboutalebi.vercel.app)**!
 * **[Personal Portfolio]** - A highly performant, bilingual portfolio built with TanStack Start, Tailwind CSS, and Radix UI.
 * **[Todo Firebase App]** - A real-time todo app powered by Firebase auth and Firestore, deployed on Netlify.
-
